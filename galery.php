@@ -21,23 +21,8 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <!-- Navbar start -->
-    <nav class="navbar">
-      <a href="#" class="navbar-logo">personal<span>homepage</span></a>
-      <div class="navbar-nav">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="blog.html">Blog</a>
-        <a href="galery.html">Gallery</a>
-        <a href="kontak.html">Contact</a>
-      </div>
-
-      <div class="navbar-extra">
-        <a href="#" id="search"><i data-feather="search"></i></a>
-        <a href="#" id="hamburger-menu"><i data-feather="menu"></i></a>
-      </div>
-    </nav>
-    <!-- Navbar End -->
+    
+  <?php include("include/navbar.php"); ?>
 
     <!-- Gallery SEction -->
     <div class="container">
