@@ -23,7 +23,7 @@
 
   <body>
     
-  <?php include("include/navbar.php"); ?>
+  <?php include("includes/navbar.php"); ?>
 
     <!-- Hero Section Start -->
     <section class="hero" id="home">

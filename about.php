@@ -23,7 +23,7 @@
   </head>
   <body>
     
-  <?php include("include/navbar.php"); ?>
+  <?php include("includes/navbar.php"); ?>
 
     <!-- About Section Start -->
     <section id="about" class="about">

@@ -25,7 +25,7 @@
   </head>
   <body>
     
-  <?php include("include/navbar.php"); ?>
+  <?php include("includes/navbar.php"); ?>
 
     <!-- Page Wrapper -->
     <div class="page-wrapper3">

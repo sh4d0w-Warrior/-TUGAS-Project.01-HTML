@@ -22,7 +22,7 @@
   </head>
   <body>
 
-  <?php include("include/navbar.php"); ?>
+  <?php include("includes/navbar.php"); ?>
     
     <!-- Contact -->
     <section id="contact" class="contact">

@@ -29,7 +29,7 @@ include 'config.php';
   </head>
   <body>
     
-  <?php include("include/navbar.php"); ?>
+  <?php include("includes/navbar.php"); ?>
 
     <!-- Blog Section -->
     <section id="blog">

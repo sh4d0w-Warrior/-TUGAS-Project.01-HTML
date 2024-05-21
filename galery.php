@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    
-  <?php include("include/navbar.php"); ?>
+
+  <?php include("includes/navbar.php"); ?>
 
     <!-- Gallery SEction -->
     <div class="container">
