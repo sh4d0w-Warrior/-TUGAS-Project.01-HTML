@@ -40,7 +40,9 @@ include 'config.php';
 
       <!-- blog-container -->
       <div class="blog-container">
-        <!-- box 1 -->
+
+        <!-- box -->
+
         <?php
     $query = "SELECT * FROM blog";
     $result = mysqli_query($conn, $query);
@@ -75,7 +77,7 @@ include 'config.php';
     } else {
         echo "Error: " . $query . "<br>" . mysqli_error($conn);
     } ?>
-        <!-- box 2 -->
+        <!-- box -->
       
     </section>
 
